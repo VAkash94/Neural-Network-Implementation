@@ -1,9 +1,8 @@
 """
 File name: trainMLP.py
 Language: Python3
-Authors :
-Ghodratollah Aalipour ga5481@rit.edu
-Akash Venkatachalam   av2833@rit.edu
+Author :
+Akash Venkatachalam
 
 """
 
